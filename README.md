@@ -1,8 +1,7 @@
-# Trabalhos
-Trabalhos que produzi ao se tratar de relatórios, envolvendo ferramentas de OLAP, como: Power BI, SAP Dashboards, Tableau, etc.
+Work I produced related to reports, involving OLAP tools, such as: Power BI, SAP Dashboards, Tableau, etc.
 
-Na 3º Imagem, mostra o dashboard como comecei. Utilizei o Power BI Desktop para desevolvimento do dash, levantei as informações com o gestor e cliente já que se tratava de uma parceira para controlar os serviços que era ofertados para o cliente e o cliente tinha interesse de ver o fruto do trabalho entregue pelo contrato da Central IT.
+In the 3rd image, you can see the dashboard as I started. I used Power BI Desktop for developing the dashboard, gathering information with the manager and client, as it was a partnership to track the services offered to the client, who was interested in seeing the results of the work delivered under the Central IT contract.
 
-Na 2º Imagem, já tínhamos algo mais maduro, com um carinha mais amigável, e com um pouco mais de regras, no entanto longe do visual, dos filtros, segmentações, links de redirecionamentos, etc. aos quais deveríamos criar um produto mais adequado a necessidade.
+In the 2nd image, we already had something more refined, with a friendlier design and more rules in place. However, it was still far from the visual, filters, segments, redirection links, etc., that we needed to create a product better suited to the requirements.
 
-Na 1º Imagem já percebe-se que o dash ganhou outro visual, foram aplicadas todas as regras necessárias, filtros e segmentações, além de rebusar os detalhes analíticos nos gráficos solicitados pelo cliente com o intuito de avaliar performances e resultados do atendimento do contrato.
+In the 1st image, you can already see that the dashboard has gained a completely new look. All the necessary rules, filters, and segments were applied, in addition to enhancing the analytical details in the charts requested by the client, with the goal of evaluating the performance and results of the contract service delivery.
